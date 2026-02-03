@@ -4,10 +4,10 @@ ____
 ### 🌱 Currently learning :
 - C#
 - Programming as a whole
-- 
 ___
 
 By all means please do roast me and correct my mistakes 
+
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <!--
