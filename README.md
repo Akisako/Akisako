@@ -1,4 +1,14 @@
-## Hi there 👋
+## I don't have a single idea what I'm doing
+____
+
+### 🌱 Currently learning :
+- C#
+- Programming as a whole
+- 
+___
+
+By all means please do roast me and correct my mistakes 
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <!--
 **Akisako/Akisako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
