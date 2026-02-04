@@ -1,10 +1,12 @@
 ## Hi there 👋
-I don't have a single idea what I'm doing
+I don't have any idea what I'm doing
 ____
 
 
 ### 🌱 Currently learning :
 - C#
+- Backend dev
+- Gamedev
 - Programming as a whole
 ___
 
