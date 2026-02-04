@@ -1,5 +1,6 @@
-## I don't have a single idea what I'm doing
+## Hi there 👋
 ____
+I don't have a single idea what I'm doing
 
 ### 🌱 Currently learning :
 - C#
