@@ -2,15 +2,7 @@
 I don't have any idea what I'm doing
 ____
 
-
-### 🌱 Currently learning :
-- C#
-- Backend dev
-- Gamedev
-- Programming as a whole
-___
-
-By all means please do roast me and correct my mistakes 
+I like cars when they go mOooOoOOow
 
 <!--
 **Akisako/Akisako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
