@@ -1,8 +1,8 @@
 ## Hi there 👋
 I don't have any idea what I'm doing
 ____
-
-I like cars when they go mOooOoOOow
+inside my head :
+<img width="498" height="298" alt="Image" src="https://github.com/user-attachments/assets/e2087057-4888-4ab4-91af-15daf966619f" />
 
 <!--
 **Akisako/Akisako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
