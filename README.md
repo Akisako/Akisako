@@ -1,8 +1,22 @@
 ## Hi there 👋
 I don't have any idea what I'm doing
 ____
-inside my head :
-<img width="498" height="298" alt="Image" src="https://github.com/user-attachments/assets/e2087057-4888-4ab4-91af-15daf966619f" />
+
+<p align="center">
+Inside my head : <br> 
+<img width="498" height="298" alt="Image" src="https://github.com/user-attachments/assets/e2087057-4888-4ab4-91af-15daf966619f"/>
+<br>
+</p>
+
+
+
+ <h3 align="center">Currently learning:
+ </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,bevy,linux,blender,godot" />
+  </a>
+</p>
 
 <!--
 **Akisako/Akisako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
